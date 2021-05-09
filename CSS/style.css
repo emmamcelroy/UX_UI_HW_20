@@ -1,0 +1,39 @@
+ul img {
+    padding: 5px;
+    width: 150px;
+  }
+.footer {
+    left: 0;
+    bottom: 0;
+    height: 70px;
+    width: 100%;
+    background-color:#A98F54;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+  }
+.Research {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.Definition {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.Ideation {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.Prototyping {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.UserTesting {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
